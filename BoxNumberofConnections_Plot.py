@@ -1,4 +1,5 @@
 #### In this code, we show how well-connected ballooning modes are for a gs2 simulation. Plots ballooning modes onto a hat{theta}_0 ky rho_i grid.
+#### Questions? Contact jasonfrancisparisi AT gmail.com
 
 from matplotlib import colors, ticker, cm
 import matplotlib.colors as colors
